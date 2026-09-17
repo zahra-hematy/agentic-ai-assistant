@@ -13,6 +13,10 @@ __pycache__/
 .venv312
 .env
 
+# RAG generated/local files
+persian_rag_langchain_comp/data/
+persian_rag_langchain_comp/indexes/
+
 indexes
 persian_rag_langchain_comp\.venv312
 persian_rag_langchain_comp\.vscode
@@ -21,8 +25,8 @@ persian_rag_langchain_comp\indexes\index.pkl
 persian_rag_langchain_comp\indexes\parents.pkl
 test_tools.py
 time_parser.py
-E:\agentic-ai-assistant\test_tools.py
-E:\agentic-ai-assistant\time_parser.py
+agentic-ai-assistant\test_tools.py
+agentic-ai-assistant\time_parser.py
 persian_rag_langchain_comp\data\001-050110-FR-PR-102-13   دستورالعمل تردد در سالن ها و خطوط تولید.pdf
 persian_rag_langchain_comp\data\001-050120-IN-WA-109-13 دستورالعمل شرایط دمایی و رطوبت انبارها و سردخانه ها.pdf
 persian_rag_langchain_comp\data\125-14050306-PR-PR-101-13  روش اجرایی تولید.pdf
